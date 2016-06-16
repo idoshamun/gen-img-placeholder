@@ -1,0 +1,26 @@
+{
+  "name": "gen-img-placeholder",
+  "version": "0.0.0",
+  "description": "Generates a json with base64 placeholders for a given set of images",
+  "main": "index.js",
+  "bin": {
+    "gen-img-placeholder": "index.js"
+  },
+  "keywords": [
+    "placholder",
+    "lazy",
+    "image",
+    "base64",
+    "thumbnail"
+  ],
+  "author": {
+    "name": "Ido Shamun",
+    "email": "idoesh1@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "glob": "^7.0.3",
+    "sharp": "^0.15.0"
+  }
+}
