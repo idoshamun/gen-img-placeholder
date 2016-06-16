@@ -1,6 +1,6 @@
 {
   "name": "gen-img-placeholder",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Generates a json with base64 placeholders for a given set of images",
   "main": "index.js",
   "bin": {
