@@ -6,6 +6,10 @@
   "bin": {
     "gen-img-placeholder": "index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idosh/gen-img-placeholder.git"
+  },
   "keywords": [
     "placholder",
     "lazy",
