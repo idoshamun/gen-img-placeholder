@@ -16,5 +16,9 @@ Options:
 
 * _-h, --help_ - output usage information
 * _-V, --version_ - output the version number
-* _-s, --size_ - New size for the placeholder, in percentage
-* _-o, --output_ - Path for the output json
+* _-s, --size_ - New size for the placeholder, in percentage (default: 1%)
+* _-o, --output_ - Path for the output json (default: stdout)
+
+### Example
+
+`gen-img-placeholder -s 1 -o './placeholders.json' 'assets/**/*.png'`
