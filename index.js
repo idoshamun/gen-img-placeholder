@@ -44,7 +44,3 @@ glob(program.args[0], (err, files) => {
         })
         .catch(throwError);
 });
-
-// console.log(program.size);
-// console.log(program.output);
-// console.log(program.args);
